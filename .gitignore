@@ -1,0 +1,21 @@
+# Ignore env
+.env
+*.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Model files (optional)
+*.h5
+*.pt
+*.pth
+
+# OS files
+.DS_Store
